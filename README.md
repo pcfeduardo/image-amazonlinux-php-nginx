@@ -5,6 +5,14 @@
 - php (php7.4)
 - wkhtmltopdf (wkhtmltopdf-0.12.6 - with patched qt)
 
+## dockerhub repository
+### image
+- pcfeduardo/baseimage-amazonlinux-php74-nginx:latest
+### pull command
+```
+docker pull pcfeduardo/baseimage-amazonlinux-php74-nginx:latest
+```
+
 ## logs direction
 logfile                     | map to
 :-:                         |:-:
